@@ -1,0 +1,8 @@
+[project]
+name = "texttosound"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+authors = ["adam_ml <chyndishkoa@gmail.com"]
